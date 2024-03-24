@@ -1,0 +1,16 @@
+{
+  "name": "scrimba",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "langchain": "^0.0.151",
+    "supabase": "^1.150.0"
+  }
+}
